@@ -1,3 +1,11 @@
+---
+title: "Have you been compromised?"
+description: "An article taht helps you to detect if you have been compromised, how to rectify it, adn how to prevent it"
+pubDate: "2020-03-10"
+hero: "https://cdn-images-1.medium.com/max/2000/1*JmPGvRv5BywPay2jKc93gw@2x.jpeg"
+tags: ["security"]
+layout: "../../layouts/BlogPostLayout.astro"
+---
 
 ## Have you been compromised?
 
@@ -13,27 +21,27 @@ This article will show you how to find the Security Recommendations and Password
 
 ## On iOS Devices
 
-* Go to Settings
+- Go to Settings
 
-* Scroll down and tap on Passwords
+- Scroll down and tap on Passwords
 
-* Tap on Security Recommendations
+- Tap on Security Recommendations
 
-* If deactivated, activate “Detect Compromised Passwords”
+- If deactivated, activate “Detect Compromised Passwords”
 
 This will tell you all you need to know about the passwords saved in the keychain. Take every prompt seriously.
 
 ## For Android or Chrome Users
 
-* Tap on your Chrome browser
+- Tap on your Chrome browser
 
-* Tap on Settings
+- Tap on Settings
 
-* Tap on Passwords
+- Tap on Passwords
 
-* Tap on [passwords.google.com](http://passwords.google.com)
+- Tap on [passwords.google.com](http://passwords.google.com)
 
-* Tap on “Go to Password Checkup”
+- Tap on “Go to Password Checkup”
 
 An alternative way is also going straight to [passwords.google.com](http://passwords.google.com) on your device if you have passwords saved in Chrome.
 
@@ -41,13 +49,13 @@ An alternative way is also going straight to [passwords.google.com](http://passw
 
 If you find out you have been compromised, your password is being reused on multiple sites or you have a weak password;
 
-* Change the password used on that site immediately.
+- Change the password used on that site immediately.
 
-* Use a password manager or any app that can generate random strong passwords. I would recommend the in-house managers of your device (Chrome and iCloud Keychain).
+- Use a password manager or any app that can generate random strong passwords. I would recommend the in-house managers of your device (Chrome and iCloud Keychain).
 
-* If it’s a site you hardly use and the option is available, delete your account on that site.
+- If it’s a site you hardly use and the option is available, delete your account on that site.
 
-* If you do not trust a password manager and you would like to generate your own password use a pass-phrase instead. Change a few alphabets to numbers and make sure it’s at least 12 characters. They are more difficult to be hacked.(eg. Wearyo5rmaskPl3ase)
+- If you do not trust a password manager and you would like to generate your own password use a pass-phrase instead. Change a few alphabets to numbers and make sure it’s at least 12 characters. They are more difficult to be hacked.(eg. Wearyo5rmaskPl3ase)
 
 And remember: **never, EVER, use the same password twice.**
 
