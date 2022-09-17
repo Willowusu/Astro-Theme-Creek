@@ -7,9 +7,9 @@ tags: ["security"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-## Have you been compromised?
+<!-- ## Have you been compromised?
 
-![](https://cdn-images-1.medium.com/max/2000/1*JmPGvRv5BywPay2jKc93gw@2x.jpeg)
+![](https://cdn-images-1.medium.com/max/2000/1*JmPGvRv5BywPay2jKc93gw@2x.jpeg) -->
 
 In the recent iOS 14 update Apple added a feature called Security Recommendations that has really been an eye-opener. It tells you if you’re reusing your saved passwords in the keychain on other sites, whether it’s too weak and a feature that can alert you if your passwords appear in known data leaks. Google also has a similar feature in Chrome(Google’s “default” password manager) called Password Checkup that has the same functions except alerting you if your password has appeared in a data leak.
 
